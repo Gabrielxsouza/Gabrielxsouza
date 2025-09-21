@@ -5,13 +5,10 @@
 </p>
 
 <br>
-
-- 👨‍💻 Pronomes: Ele/Dele  
-- 🎂 Idade: não informada  
+ 
+- 🎂 Idade: 21 anos 
 - 🌱 Explorando novas tecnologias, especialmente **Java Spring Boot e Laravel**  
 - 👯 Aberto a colaborar em projetos open-source  
-- 💬 Me pergunte sobre programação, desenvolvimento web e APIs  
-- ⚡ Curiosidade: gosto de fazer piadas ruins 😎
 
 ---
 
